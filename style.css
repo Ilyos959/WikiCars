@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Fon {
+    position: absolute;
+    width: 100%;
+    height: 1000vh;
+    background-color: black ;
+}
+
+.head {
+    font-size: 30px;
+    padding: 5px;
+    color: black;
+    position:absolute;
+    width: 75%;
+    border: 2px solid white;
+    border-radius: 20px;
+    height: 300px;
+    z-index: 100px;
+    margin-left: 175px;
+}
+.lamborgini-urus {
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 150px;
+    margin-top: 340px;
+    color: white;
+    background-color: black;
+}
+.BMW_X7 {
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 150px;
+    margin-top: 910px;
+    color: white;
+    background-color: black;
+}
+img {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+}
+.photo {
+    position: absolute;
+    width: 250px;
+    height: 200px;
+    border: 2px solid white;
+    border-radius: 20px;
+    overflow: hidden;
+    object-fit: cover;
+}
+li {
+    padding-top: 260px;
+}
+.lamborgini-avendator{
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 500px;
+    margin-top: 340px;
+    color: white;
+    background-color: black;
+}   
+.mersedes{
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 500px;
+    margin-top: 910px;
+    color: white;
+    background-color: black;
+    font-size: medium;
+}
+.Rolls-Royce{
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 850px;
+    margin-top: 340px;
+    color: white;
+    background-color: black;
+}
+.bugatti{
+    position: absolute;
+    z-index: 1px;
+    width: 300px;
+    height: 500px;
+    border: 2px solid white;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 20px;
+    padding-left: 25px;
+    padding-top: 20px;
+    margin-left: 850px;
+    margin-top: 910px;
+    color: white;
+    background-color: black;
+}
+button {
+    width: 250px;
+    height: 20px;
+    border-radius: 2px solid white;
+    background-color: red;
+    font-size: medium;
+}
+.vid {
+    width: 110px;
+    height: 1010px;
+}
+video {
+    position: absolute;
+    height: 1400px;
+}
+.nav {
+    background: linear-gradient(to right, #ee0979, #ff6a00);
+    border: 2px solid white;
+    width: 100%;
+    height: 100px;
+    font-size: 42px;
+    padding-left: 15px;
+    padding-top: 20px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+a {
+    font-size: 42px;
+    padding-left: 100px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: black;
+    text-decoration: none;
+}
+.foter {
+    position: absolute;
+    border: 5px solid white;
+    width: 100%;
+    height: 500px;
+    margin-top: 1400px;
+    background-color: white;
+    padding-left: 30px;
+    font-size: 36px;
+    
+}
+.call {
+    font-size: 42;
+    padding-top: 30px;
+}
+.logo {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 64px;
+}
+.img {
+    z-index: 10000px;
+    padding-left: 750px;
+    width: 300px;
+    height: 300px;
+    padding-top: 50px;
+}
